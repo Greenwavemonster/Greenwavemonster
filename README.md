@@ -1,1 +1,1 @@
-22, Junior System engineer, RedHat OpenShift
+22, Junior System engineer, Red Hat OpenShift
